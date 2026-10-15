@@ -1,0 +1,30 @@
+*   commit bdb4a90f7198b8a7ebd1f01c84487c0f203ecb60 (HEAD -> main)
+|\  Merge: f2811d3 3b628d7
+| | Author: Taoliyuan <welt799@163.com>
+| | Date:   2026-10-15T22:39:39+08:00
+| | 
+| |     Merge verified individual POS implementation and documentation
+| | 
+| * commit 3b628d751d16cd6c922192875c362783d55d682c (taoliyuan/development)
+| | Author: Taoliyuan <welt799@163.com>
+| | Date:   2026-10-15T22:39:39+08:00
+| | 
+| |     Document UML design, runnable setup and presentation workflow
+| | 
+| * commit 314bd47d8d2cfa918af9e9a4ff77792c96ca6c9b
+| | Author: Taoliyuan <welt799@163.com>
+| | Date:   2026-10-15T22:08:06+08:00
+| | 
+| |     Verify sale and return workflows with 22 tests and browser evidence
+| | 
+| * commit b44e31273ffab48009139ad5fcdafed796a2a8a3
+|/  Author: Taoliyuan <welt799@163.com>
+|   Date:   2026-10-15T22:02:39+08:00
+|   
+|       Implement atomic cash sales, receipt returns and English POS interface
+| 
+* commit f2811d3cb69f2296489e7d429ff8ee33bb190de5
+  Author: Taoliyuan <welt799@163.com>
+  Date:   2026-10-15T22:02:39+08:00
+  
+      Plan individual POS scope and acceptance criteria
