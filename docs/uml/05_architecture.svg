@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="720" height="450" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 450" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="720" height="450"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-450)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="90" y="325" width="540" height="95" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="90" y="390" width="540" height="30" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="277.6255" y="400" style="font-family: Helvetica-Bold; font-size: 13px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,800) scale(1,-1)">&lt;&lt;package&gt;&gt; Presentation</text>
+			<text x="100" y="371" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,742) scale(1,-1)">static/index.html  |  style.css  |  app.js</text>
+			<text x="100" y="353" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,706) scale(1,-1)">Product selection, basket preview, receipts and history</text>
+			<rect x="90" y="200" width="540" height="95" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="90" y="265" width="540" height="30" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="281.6035" y="275" style="font-family: Helvetica-Bold; font-size: 13px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,550) scale(1,-1)">&lt;&lt;package&gt;&gt; Application</text>
+			<text x="100" y="246" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,492) scale(1,-1)">app.Handler  |  pos.service.POSService</text>
+			<text x="100" y="228" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,456) scale(1,-1)">HTTP boundary, checkout and return orchestration</text>
+			<rect x="90" y="75" width="540" height="95" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="90" y="140" width="540" height="30" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="241.49849999999998" y="150" style="font-family: Helvetica-Bold; font-size: 13px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,300) scale(1,-1)">&lt;&lt;package&gt;&gt; Domain and Persistence</text>
+			<text x="100" y="121" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,242) scale(1,-1)">pos.domain: Sale, SaleLine, CashPayment, BusinessError</text>
+			<text x="100" y="103" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,206) scale(1,-1)">pos.repository: SQLiteRepository and SQLite data</text>
+			<path d="M 360,325 L 360,295 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="360 295, 363.4797 302.2036, 356.5203 302.2036" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="325.825" y="319.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,638) scale(1,-1)">calls JSON API</text>
+			<path d="M 360,200 L 360,170 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="360 170, 363.4797 177.2036, 356.5203 177.2036" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="282.745" y="194.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,388) scale(1,-1)">uses domain values and repository</text>
+			<text x="171.10250000000002" y="30" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,60) scale(1,-1)">Three deployment-local layers. Domain values do not import HTTP or SQLite.</text>
+		</g>
+	</g>
+</svg>

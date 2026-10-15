@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="720" height="440" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 440" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="720" height="440"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-440)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="230" y="50" width="440" height="350" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
+			<text x="375.304" y="377" style="font-family: Helvetica-Bold; font-size: 16px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,754) scale(1,-1)">Market POS system</text>
+			<circle cx="95" cy="275" r="18" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: none; fill-rule: evenodd;"/>
+			<path d="M 95,257 L 95,195 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 60,235 L 130,235 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 95,195 L 65,155 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 95,195 L 125,155 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="69.324" y="130" style="font-family: Helvetica-Bold; font-size: 14px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,260) scale(1,-1)">Cashier</text>
+			<ellipse cx="450.0" cy="295.0" rx="145.0" ry="35.0" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="386.6475" y="291" style="font-family: Helvetica; font-size: 15px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,582) scale(1,-1)">UC1  Process Sale</text>
+			<path d="M 130,235 L 305,295 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<ellipse cx="450.0" cy="195.0" rx="145.0" ry="35.0" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="378.72749999999996" y="191" style="font-family: Helvetica; font-size: 15px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,382) scale(1,-1)">UC2  Handle Returns</text>
+			<path d="M 130,235 L 305,195 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<text x="336.954" y="95" style="font-family: Helvetica; font-size: 12px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,190) scale(1,-1)">Customer participates through the cashier.</text>
+			<text x="144.17999999999998" y="20" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,40) scale(1,-1)">The two use cases are independent cashier goals. No artificial include or extend relation.</text>
+		</g>
+	</g>
+</svg>

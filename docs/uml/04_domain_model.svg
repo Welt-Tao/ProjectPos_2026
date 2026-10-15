@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="720" height="510" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 510" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="720" height="510"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-510)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="15" y="350" width="190" height="105" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="15" y="425" width="190" height="30" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="85.443" y="435" style="font-family: Helvetica-Bold; font-size: 13px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,870) scale(1,-1)">Product</text>
+			<text x="25" y="406" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,812) scale(1,-1)">sku</text>
+			<text x="25" y="388" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,776) scale(1,-1)">name</text>
+			<text x="25" y="370" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,740) scale(1,-1)">currentPrice</text>
+			<text x="25" y="352" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,704) scale(1,-1)">stockOnHand</text>
+			<rect x="285" y="350" width="170" height="105" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="285" y="425" width="170" height="30" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="343.2655" y="435" style="font-family: Helvetica-Bold; font-size: 13px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,870) scale(1,-1)">SaleLine</text>
+			<text x="295" y="406" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,812) scale(1,-1)">quantity</text>
+			<text x="295" y="388" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,776) scale(1,-1)">unitPriceAtSale</text>
+			<text x="295" y="370" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,740) scale(1,-1)">returnedQuantity</text>
+			<rect x="535" y="350" width="170" height="105" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="535" y="425" width="170" height="30" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="606.6295" y="435" style="font-family: Helvetica-Bold; font-size: 13px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,870) scale(1,-1)">Sale</text>
+			<text x="545" y="406" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,812) scale(1,-1)">saleId</text>
+			<text x="545" y="388" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,776) scale(1,-1)">dateTime</text>
+			<text x="545" y="370" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,740) scale(1,-1)">total</text>
+			<path d="M 205,400 L 285,400 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<text x="213" y="409" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,818) scale(1,-1)">1</text>
+			<text x="261.99" y="409" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,818) scale(1,-1)">0..*</text>
+			<text x="223.605" y="427" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,854) scale(1,-1)">describes</text>
+			<path d="M 455,400 L 535,400 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<text x="463" y="409" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,818) scale(1,-1)">1..*</text>
+			<text x="521.44" y="409" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,818) scale(1,-1)">1</text>
+			<text x="480.825" y="427" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,854) scale(1,-1)">part of</text>
+			<rect x="535" y="160" width="170" height="100" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="535" y="230" width="170" height="30" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="577.0155" y="240" style="font-family: Helvetica-Bold; font-size: 13px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,480) scale(1,-1)">CashPayment</text>
+			<text x="545" y="211" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,422) scale(1,-1)">amountTendered</text>
+			<text x="545" y="193" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,386) scale(1,-1)">changeDue</text>
+			<path d="M 620,350 L 620,260 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<text x="628" y="333" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,666) scale(1,-1)">1</text>
+			<text x="606.44" y="277" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,554) scale(1,-1)">1</text>
+			<text x="580.76" y="305.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,610) scale(1,-1)">paid by</text>
+			<rect x="285" y="160" width="170" height="100" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="285" y="230" width="170" height="30" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="349.057" y="240" style="font-family: Helvetica-Bold; font-size: 13px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,480) scale(1,-1)">Return</text>
+			<text x="295" y="211" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,422) scale(1,-1)">returnId</text>
+			<text x="295" y="193" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,386) scale(1,-1)">dateTime</text>
+			<text x="295" y="175" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,350) scale(1,-1)">reason</text>
+			<path d="M 455,240 L 535,350 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<text x="463" y="257" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,514) scale(1,-1)">0..*</text>
+			<text x="521.44" y="333" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,666) scale(1,-1)">1</text>
+			<text x="451.32" y="295.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,590) scale(1,-1)">refers to</text>
+			<rect x="15" y="160" width="190" height="100" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<rect x="15" y="230" width="190" height="30" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="75.693" y="240" style="font-family: Helvetica-Bold; font-size: 13px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,480) scale(1,-1)">ReturnLine</text>
+			<text x="25" y="211" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,422) scale(1,-1)">quantity</text>
+			<text x="25" y="193" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,386) scale(1,-1)">originalUnitPrice</text>
+			<path d="M 205,210 L 285,210 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<text x="213" y="219" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,438) scale(1,-1)">1..*</text>
+			<text x="271.44" y="219" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,438) scale(1,-1)">1</text>
+			<text x="230.825" y="237" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,474) scale(1,-1)">part of</text>
+			<path d="M 110,260 L 110,350 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<text x="118" y="277" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,554) scale(1,-1)">0..*</text>
+			<text x="96.44" y="333" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,666) scale(1,-1)">1</text>
+			<text x="63.54" y="305.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,610) scale(1,-1)">identifies</text>
+			<path d="M 205,260 L 285,350 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<text x="213" y="277" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,554) scale(1,-1)">0..*</text>
+			<text x="271.44" y="333" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,666) scale(1,-1)">1</text>
+			<text x="205.76" y="305.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,610) scale(1,-1)">against</text>
+			<text x="162.252" y="75" style="font-family: Helvetica; font-size: 12px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,150) scale(1,-1)">Conceptual domain model: business concepts, attributes and multiplicities.</text>
+			<text x="188.51" y="50" style="font-family: Helvetica; font-size: 11px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,100) scale(1,-1)">Return and ReturnLine are persisted as records in the implementation.</text>
+		</g>
+	</g>
+</svg>
