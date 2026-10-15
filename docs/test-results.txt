@@ -1,0 +1,31 @@
+test_cash_sale_totals_receipt_and_stock (test_pos.POSTests.test_cash_sale_totals_receipt_and_stock) ... ok
+test_concurrent_returns_cannot_overrefund (test_pos.POSTests.test_concurrent_returns_cannot_overrefund) ... ok
+test_concurrent_sales_cannot_oversell (test_pos.POSTests.test_concurrent_sales_cannot_oversell) ... ok
+test_duplicate_product_lines_merge (test_pos.POSTests.test_duplicate_product_lines_merge) ... ok
+test_empty_sale (test_pos.POSTests.test_empty_sale) ... ok
+test_full_return_then_excess_return_rejected (test_pos.POSTests.test_full_return_then_excess_return_rejected) ... ok
+test_http_endpoints_and_bad_request (test_pos.POSTests.test_http_endpoints_and_bad_request) ... 127.0.0.1 - - [15/Oct/2026 22:42:22] "GET /api/products HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 22:42:22] "POST /api/sales HTTP/1.1" 200 -
+127.0.0.1 - - [15/Oct/2026 22:42:22] "POST /api/sales HTTP/1.1" 400 -
+127.0.0.1 - - [15/Oct/2026 22:42:22] "POST /api/sales HTTP/1.1" 403 -
+ok
+test_insufficient_cash_is_atomic (test_pos.POSTests.test_insufficient_cash_is_atomic) ... ok
+test_insufficient_stock (test_pos.POSTests.test_insufficient_stock) ... ok
+test_invalid_quantities (test_pos.POSTests.test_invalid_quantities) ... ok
+test_missing_receipt (test_pos.POSTests.test_missing_receipt) ... ok
+test_mixed_return_is_atomic (test_pos.POSTests.test_mixed_return_is_atomic) ... ok
+test_money_rejects_nonfinite_and_extra_decimals (test_pos.POSTests.test_money_rejects_nonfinite_and_extra_decimals) ... ok
+test_partial_return_and_net_total (test_pos.POSTests.test_partial_return_and_net_total) ... ok
+test_persistence_after_repository_restart (test_pos.POSTests.test_persistence_after_repository_restart) ... ok
+test_refund_uses_original_price (test_pos.POSTests.test_refund_uses_original_price) ... ok
+test_return_nonpurchased_item (test_pos.POSTests.test_return_nonpurchased_item) ... ok
+test_return_reason_required (test_pos.POSTests.test_return_reason_required) ... ok
+test_return_retry_is_idempotent (test_pos.POSTests.test_return_retry_is_idempotent) ... ok
+test_sale_retry_is_idempotent (test_pos.POSTests.test_sale_retry_is_idempotent) ... ok
+test_token_reuse_with_changed_payload_rejected (test_pos.POSTests.test_token_reuse_with_changed_payload_rejected) ... ok
+test_unknown_product_rolls_back_all_lines (test_pos.POSTests.test_unknown_product_rolls_back_all_lines) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 2.269s
+
+OK

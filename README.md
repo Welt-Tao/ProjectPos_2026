@@ -62,4 +62,4 @@ The cart is a browser draft, lost on refresh. A stock check at checkout protects
 
 The individual development branch is `taoliyuan/development`. Merge it to `main` when an increment is ready, and preserve both branches. Local commits use the supplied project owner's identity. Implementation and document preparation used AI assistance, with the student responsible for review, comprehension, demonstration and submission. Commit timestamps are actual execution timestamps, not evidence of elapsed three-day sprints.
 
-Planned remote: https://github.com/Welt-Tao/ProjectPos_2026 . Publication status is tracked in the delivery checklist, rather than inferred from this planned URL.
+Published repository: https://github.com/Welt-Tao/ProjectPos_2026 . Both `main` and `taoliyuan/development` were verified remotely on 15 October 2026. Final report, slides and workbook are in `docs/submission/`. The student demonstration video is still pending.
