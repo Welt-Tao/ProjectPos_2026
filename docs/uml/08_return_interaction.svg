@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="720" height="480" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 480" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="720" height="480"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-480)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="4.0" y="420" width="102.0" height="36" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="34.72" y="435" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,870) scale(1,-1)">:Handler</text>
+			<path d="M 55,420 L 55,45 Z" style="stroke: rgb(38%,45%,41%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 4, 4;"/>
+			<rect x="207.33333333333337" y="420" width="102.0" height="36" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="228.31833333333338" y="435" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,870) scale(1,-1)">:POSService</text>
+			<path d="M 258.333333,420 L 258.333333,45 Z" style="stroke: rgb(38%,45%,41%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 4, 4;"/>
+			<rect x="410.6666666666667" y="420" width="102.00000000000006" height="36" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="433.88666666666666" y="435" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,870) scale(1,-1)">:Repository</text>
+			<path d="M 461.666667,420 L 461.666667,45 Z" style="stroke: rgb(38%,45%,41%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 4, 4;"/>
+			<rect x="614.0" y="420" width="102.0" height="36" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="647.22" y="435" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,870) scale(1,-1)">:SQLite</text>
+			<path d="M 665,420 L 665,45 Z" style="stroke: rgb(38%,45%,41%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 4, 4;"/>
+			<path d="M 55,395 L 258.333333,395 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="258.3333 395, 251.1298 398.4797, 251.1298 391.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="108.04166666666669" y="404.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,808) scale(1,-1)">return_items(payload)</text>
+			<path d="M 258.333333,364 L 461.666667,364 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="461.6667 364, 454.4631 367.4797, 454.4631 360.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="332.215" y="373.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,746) scale(1,-1)">transaction()</text>
+			<path d="M 461.666667,333 L 665,333 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="665 333, 657.7964 336.4797, 657.7964 329.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="518.6033333333334" y="342.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,684) scale(1,-1)">BEGIN IMMEDIATE</text>
+			<path d="M 258.333333,302 L 461.666667,302 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="461.6667 302, 454.4631 305.4797, 454.4631 298.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="318.04" y="311.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,622) scale(1,-1)">sale(conn, sale_id)</text>
+			<path d="M 461.666667,271 L 258.333333,271 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; stroke-dasharray: 4, 3;"/>
+			<polygon points="258.3333 271, 265.5369 267.5203, 265.5369 274.4797" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="276.63" y="280.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,560) scale(1,-1)">original prices and returned quantities</text>
+			<path d="M 258.333333,240 L 283.333333,240 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 283.333333,240 L 283.333333,225 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 283.333333,225 L 258.333333,225 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="258.3333 225, 265.5369 221.5203, 265.5369 228.4797" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="288.33333333333337" y="234" style="font-family: Helvetica; font-size: 9px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,468) scale(1,-1)">validate and total refund</text>
+			<path d="M 258.333333,209 L 665,209 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="665 209, 657.7964 212.4797, 657.7964 205.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="352.7216666666667" y="218.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,436) scale(1,-1)">insert return and lines; update returned and stock</text>
+			<path d="M 258.333333,178 L 665,178 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="665 178, 657.7964 181.4797, 657.7964 174.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="437.4866666666667" y="187.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,374) scale(1,-1)">save token</text>
+			<path d="M 461.666667,147 L 665,147 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="665 147, 657.7964 150.4797, 657.7964 143.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="543.0583333333334" y="156.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,312) scale(1,-1)">COMMIT</text>
+			<path d="M 258.333333,116 L 55,116 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; stroke-dasharray: 4, 3;"/>
+			<polygon points="55 116, 62.20358 112.5203, 62.20358 119.4797" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="126.09666666666669" y="125.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,250) scale(1,-1)">refund receipt</text>
+			<text x="139.89999999999998" y="12" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,24) scale(1,-1)">Validation and calculation run in POSService; persistence arrows represent SQL executed on conn.</text>
+		</g>
+	</g>
+</svg>

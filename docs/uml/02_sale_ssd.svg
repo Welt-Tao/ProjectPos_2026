@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="720" height="480" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 480" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="720" height="480"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-480)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="4.0" y="420" width="102.0" height="36" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="36.66" y="435" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,870) scale(1,-1)">Cashier</text>
+			<path d="M 55,420 L 55,45 Z" style="stroke: rgb(38%,45%,41%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 4, 4;"/>
+			<rect x="614.0" y="420" width="102.0" height="36" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="633.6" y="435" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,870) scale(1,-1)">:POS System</text>
+			<path d="M 665,420 L 665,45 Z" style="stroke: rgb(38%,45%,41%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 4, 4;"/>
+			<path d="M 55,395 L 665,395 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="665 395, 657.7964 398.4797, 657.7964 391.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="257.18" y="404.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,808) scale(1,-1)">selectItem(sku, quantity) [repeat for each item]</text>
+			<path d="M 665,364 L 55,364 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; stroke-dasharray: 4, 3;"/>
+			<polygon points="55 364, 62.20358 360.5203, 62.20358 367.4797" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="297.745" y="373.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,746) scale(1,-1)">line details and running total</text>
+			<path d="M 55,333 L 665,333 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="665 333, 657.7964 336.4797, 657.7964 329.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="271.9" y="342.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,684) scale(1,-1)">changeQuantity(sku, quantity) [optional]</text>
+			<path d="M 665,302 L 55,302 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; stroke-dasharray: 4, 3;"/>
+			<polygon points="55 302, 62.20358 298.5203, 62.20358 305.4797" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="314.98" y="311.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,622) scale(1,-1)">revised running total</text>
+			<path d="M 55,271 L 665,271 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="665 271, 657.7964 274.4797, 657.7964 267.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="289.425" y="280.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,560) scale(1,-1)">completeCashSale(items, cash)</text>
+			<path d="M 665,240 L 55,240 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; stroke-dasharray: 4, 3;"/>
+			<polygon points="55 240, 62.20358 236.5203, 62.20358 243.4797" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="283.575" y="249.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,498) scale(1,-1)">receipt(saleId, total, cash, change)</text>
+			<text x="177.97" y="12" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,24) scale(1,-1)">System events are conceptual. Basket changes stay in the browser until checkout.</text>
+		</g>
+	</g>
+</svg>

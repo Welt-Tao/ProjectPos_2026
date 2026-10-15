@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="720" height="480" preserveAspectRatio="xMinYMin meet" viewBox="0 0 720 480" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="720" height="480"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-480)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="4.0" y="420" width="102.0" height="36" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="34.72" y="435" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,870) scale(1,-1)">:Handler</text>
+			<path d="M 55,420 L 55,45 Z" style="stroke: rgb(38%,45%,41%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 4, 4;"/>
+			<rect x="207.33333333333337" y="420" width="102.0" height="36" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="228.31833333333338" y="435" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,870) scale(1,-1)">:POSService</text>
+			<path d="M 258.333333,420 L 258.333333,45 Z" style="stroke: rgb(38%,45%,41%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 4, 4;"/>
+			<rect x="410.6666666666667" y="420" width="102.00000000000006" height="36" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="433.88666666666666" y="435" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,870) scale(1,-1)">:Repository</text>
+			<path d="M 461.666667,420 L 461.666667,45 Z" style="stroke: rgb(38%,45%,41%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 4, 4;"/>
+			<rect x="614.0" y="420" width="102.0" height="36" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(91%,94%,92%); fill-rule: evenodd;"/>
+			<text x="628.04" y="435" style="font-family: Helvetica-Bold; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,870) scale(1,-1)">:Sale / Payment</text>
+			<path d="M 665,420 L 665,45 Z" style="stroke: rgb(38%,45%,41%); stroke-linecap: butt; stroke-width: 1; stroke-dasharray: 4, 4;"/>
+			<path d="M 55,395 L 258.333333,395 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="258.3333 395, 251.1298 398.4797, 251.1298 391.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="115.81666666666669" y="404.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,808) scale(1,-1)">checkout(payload)</text>
+			<path d="M 258.333333,364 L 461.666667,364 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="461.6667 364, 454.4631 367.4797, 454.4631 360.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="283.315" y="373.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,746) scale(1,-1)">transaction() / BEGIN IMMEDIATE</text>
+			<path d="M 258.333333,333 L 461.666667,333 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="461.6667 333, 454.4631 336.4797, 454.4631 329.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="291.63" y="342.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,684) scale(1,-1)">check token and read products</text>
+			<path d="M 461.666667,302 L 258.333333,302 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; stroke-dasharray: 4, 3;"/>
+			<polygon points="258.3333 302, 265.5369 298.5203, 265.5369 305.4797" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="305.255" y="311.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,622) scale(1,-1)">price and available stock</text>
+			<path d="M 258.333333,271 L 665,271 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="665 271, 657.7964 274.4797, 657.7964 267.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="401.3566666666667" y="280.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,560) scale(1,-1)">create lines and Sale / total</text>
+			<path d="M 258.333333,240 L 665,240 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="665 240, 657.7964 243.4797, 657.7964 236.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="423.87166666666667" y="249.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,498) scale(1,-1)">change_for(total)</text>
+			<path d="M 665,209 L 258.333333,209 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; stroke-dasharray: 4, 3;"/>
+			<polygon points="258.3333 209, 265.5369 205.5203, 265.5369 212.4797" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="423.8666666666667" y="218.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,436) scale(1,-1)">validated change</text>
+			<path d="M 258.333333,178 L 461.666667,178 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="461.6667 178, 454.4631 181.4797, 454.4631 174.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="284.96500000000003" y="187.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,374) scale(1,-1)">insert sale and lines; deduct stock</text>
+			<path d="M 258.333333,147 L 461.666667,147 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2;"/>
+			<polygon points="461.6667 147, 454.4631 150.4797, 454.4631 143.5203" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="294.145" y="156.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,312) scale(1,-1)">store request token; COMMIT</text>
+			<path d="M 258.333333,116 L 55,116 Z" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1.2; stroke-dasharray: 4, 3;"/>
+			<polygon points="55 116, 62.20358 112.5203, 62.20358 119.4797" style="stroke: rgb(9%,23%,20%); stroke-linecap: butt; stroke-width: 1; fill: rgb(9%,23%,20%); fill-rule: evenodd;"/>
+			<text x="131.1016666666667" y="125.0" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,250) scale(1,-1)">sale receipt</text>
+			<text x="157.96499999999997" y="12" style="font-family: Helvetica; font-size: 10px;fill: rgb(9%,23%,20%); stroke:none;" transform="translate(0,24) scale(1,-1)">SQL operations occur inside the service transaction. Any exception rolls back the use case.</text>
+		</g>
+	</g>
+</svg>
